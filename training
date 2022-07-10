@@ -1,0 +1,21 @@
+<?php
+  // 1. download the repository
+  // git clone https://github.com/tanaya.php/training.git
+  
+  // step 2
+  // steps to comit and push the files to git repository
+  // git add .
+  
+  // step 3
+  // git commit -m "type your message"
+  
+  // step 4
+  // git push
+  
+  // see the changes are reflected in your repository
+  
+  
+  // git status (check if any files or folder are changed)
+  
+  
+  // git pull
