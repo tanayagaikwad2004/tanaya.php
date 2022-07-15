@@ -1,0 +1,9 @@
+INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `dob`, `address`, `phone`)
+VALUES
+	(1,'Dalton','Valencia','elit.nulla@yahoo.org','2021-02-26','698-1306 Adipiscing Rd.','1-672-569-8438'),
+	(2,'Nola','Byrd','a.felis@outlook.couk','1990-08-08','9345 Non St.','1-624-415-4884'),
+	(3,'Jada','Farley','euismod.est@aol.net','2018-06-08','P.O. Box 630, 8765 Nascetur Rd.','1-836-137-6672'),
+	(4,'Yuri','Oneil','vivamus@icloud.com','2019-11-13','191-8227 Interdum. Av.','1-608-358-0855'),
+	(5,'Tad','Ballard','nec.malesuada.ut@yahoo.org','1997-03-02','P.O. Box 624, 3110 Fusce St.','1-845-725-4655'),
+	(6,'Karly','Rodriguez','quisque.nonummy@google.com','2018-09-19','P.O. Box 785, 3350 Quisque Avenue','1-373-240-7933'),
+	(7,'Plato','Jacobs','quis.urna@google.n…
